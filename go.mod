@@ -1,4 +1,4 @@
-module gqlgen-json
+module github.com/infani/gqlgen-json
 
 go 1.19
 
